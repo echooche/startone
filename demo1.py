@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     # print(foo.__dict__)
     # print(dir())
-    print(sys.modules)
+    # print(sys.modules)
 """
 a string
 1552974942.5839
